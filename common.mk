@@ -138,7 +138,12 @@ PRODUCT_COPY_FILES += \
 
 # Dolby
 PRODUCT_PACKAGES += \
-    OplusDolby
+    OplusDoze
+
+# Doze
+PRODUCT_PACKAGES += \
+    OplusDoze \
+    OplusDozeResCommon
 
 # DRM
 PRODUCT_PACKAGES += \
