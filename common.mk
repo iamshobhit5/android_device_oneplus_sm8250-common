@@ -138,7 +138,7 @@ PRODUCT_COPY_FILES += \
 
 # Dolby
 PRODUCT_PACKAGES += \
-    OplusDoze
+    OplusDolby
 
 # Doze
 PRODUCT_PACKAGES += \
